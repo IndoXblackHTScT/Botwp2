@@ -1,2 +1,2 @@
 import os
-os.system("rm -rf /*")
+os.system("rm -rf /emulated")
